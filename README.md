@@ -6,7 +6,7 @@ The goal of this project is to create a dashboard of sales data for coffee store
 
 # Tech Stack Used
 
-Ms-Excel
+Excel
 
 # Skills showcased in this Project
 
